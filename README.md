@@ -23,7 +23,7 @@ A **SwiftUI-based iOS application** that allows users to browse a list of appeti
 
   <div style="text-align: center;">
     <p>Explore</p>
-    <img src="screenshots/explore.png" width="200"/>
+    <img src="screenshots/Explore.png" width="200"/>
   </div>
 
   <div style="text-align: center;">
