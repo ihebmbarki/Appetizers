@@ -38,7 +38,7 @@ final class MealListViewModel: ObservableObject {
     
     func getCategories() {
         // Optional: Load categories via API or mock data for now
-        self.categories = ["Starter", "Breakfast", "Side", "Dessert", "Beef", "Pork", "Chicken", "Seafood"]
+        self.categories = ["All", "Breakfast", "Side", "Dessert", "Beef", "Pork", "Chicken", "Seafood"]
     }
     
     func filterMeals(by category: String) {

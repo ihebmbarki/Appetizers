@@ -17,7 +17,7 @@ struct MainTabView: View {
             
             MealPlannerView()
                 .tabItem {
-                    Label("Search", systemImage: "magnifyingglass")
+                    Label("Planner", systemImage: "calendar.circle")
                 }
             
             FavoritesView()
