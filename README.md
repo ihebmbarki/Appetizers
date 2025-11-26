@@ -19,26 +19,26 @@ A **SwiftUI-based iOS application** that allows users to browse a list of appeti
 
 ## Screenshots
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: start; gap: 20px; flex-wrap: nowrap;">
 
   <div style="text-align: center;">
     <p>Explore</p>
-    <img src="screenshots/Explore.png" width="200"/>
+    <img src="screenshots/Explore.png" height="400"/>
   </div>
 
   <div style="text-align: center;">
     <p>Meal</p>
-    <img src="screenshots/item.png" width="200"/>
+    <img src="screenshots/item.png" height="400"/>
   </div>
 
   <div style="text-align: center;">
     <p>Planner</p>
-    <img src="screenshots/planner.png" width="200"/>
+    <img src="screenshots/planner.png" height="400"/>
   </div>
 
   <div style="text-align: center;">
     <p>Favorites</p>
-    <img src="screenshots/favorites.png" width="200"/>
+    <img src="screenshots/favorites.png" height="400"/>
   </div>
 
 </div>
