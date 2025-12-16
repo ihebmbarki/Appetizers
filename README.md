@@ -23,22 +23,22 @@ A **SwiftUI-based iOS application** that allows users to browse a list of appeti
 
   <div style="text-align: center;">
     <p>Explore</p>
-    <img src="screenshots/Explore.png" height="400"/>
+    <img src="screenshots/Explore.png" width="300"/>
   </div>
 
   <div style="text-align: center;">
     <p>Meal</p>
-    <img src="screenshots/item.png" height="400"/>
+    <img src="screenshots/item.png" width="300"/>
   </div>
 
   <div style="text-align: center;">
     <p>Planner</p>
-    <img src="screenshots/planner.png" height="400"/>
+    <img src="screenshots/planner.png" width="300"/>
   </div>
 
   <div style="text-align: center;">
     <p>Favorites</p>
-    <img src="screenshots/favorites.png" height="400"/>
+    <img src="screenshots/favorites.png" width="300"/>
   </div>
 
 </div>
